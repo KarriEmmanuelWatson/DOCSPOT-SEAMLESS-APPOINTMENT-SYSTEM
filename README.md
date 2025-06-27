@@ -1,4 +1,4 @@
-# DOCSPOT
+# DOCSPOT : SEAMLESS APPOINTMENT BOOKING SYSTEM FOR HEALTH
 
 Full-stack DOCSPOT with React frontend and Node.js backend.
 
